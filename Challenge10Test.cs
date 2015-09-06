@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Challenges.Tests
 {
     [TestClass()]
-    public class Challenge9Test
+    public class Challenge10Test
     {
         [TestMethod()]
         public void SolutionTest()
